@@ -1,0 +1,50 @@
+[
+  {
+    "chainId": 1,
+    "address": "0xeff2c1cc0e3bbb6bedc9622a309ed75eab730521",
+    "name": "some description",
+    "description": "",
+    "assetManager": "asset manager",
+    "assetManagerIcon": "https://railnet-product-sandbox.vercel.app/logos/asset_managers/monarq.svg"
+  },
+  {
+    "chainId": 1,
+    "address": "0x4255f01607f785de275b8ec1255f3a938da17f63",
+    "name": "Ana's vault",
+    "description": "",
+    "assetManager": "Ana",
+    "assetManagerIcon": "https://railnet-product-sandbox.vercel.app/logos/asset_managers/monarq.svg"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8b21fa55e3afc537de8abb74b2068746c676c828",
+    "name": "Monarq WBTC Market Neutral Yield",
+    "description": "",
+    "assetManager": "Monarq",
+    "assetManagerIcon": "https://railnet-product-sandbox.vercel.app/logos/asset_managers/monarq.svg"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xc68fa5cabaa26f7641b8f0d8710a2091994dfd77",
+    "name": "Ilies's vault",
+    "description": "",
+    "assetManager": "Ilies",
+    "assetManagerIcon": "https://railnet-product-sandbox.vercel.app/logos/asset_managers/monarq.svg"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x806227d0a68dd7f3f818d2f0d779f5c76163155f",
+    "name": "some description",
+    "description": "",
+    "assetManager": "asset manager",
+    "assetManagerIcon": "https://railnet-product-sandbox.vercel.app/logos/asset_managers/monarq.svg"
+  },
+  {
+    "chainId": 1,
+    "address": "0x88faa92fa318553a56668fdb8ca8ef7e986cf237",
+    "name": "description 0.6 vault",
+    "description": "",
+    "assetManager": "asset manager 0.6 vault",
+    "assetManagerIcon": "https://railnet-product-sandbox.vercel.app/logos/asset_managers/monarq.svg"
+  }
+]

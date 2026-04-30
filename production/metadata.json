@@ -1,0 +1,10 @@
+[
+  {
+    "chainId": 1,
+    "address": "0x8b21fa55e3afc537de8abb74b2068746c676c828",
+    "name": "Monarq WBTC Market Neutral Yield",
+    "description": "",
+    "assetManager": "Monarq",
+    "assetManagerIcon": "https://railnet-product-sandbox.vercel.app/logos/asset_managers/monarq.svg"
+  }
+]
