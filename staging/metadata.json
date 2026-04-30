@@ -38,5 +38,13 @@
     "description": "",
     "assetManager": "asset manager",
     "assetManagerIcon": "https://railnet-product-sandbox.vercel.app/logos/asset_managers/monarq.svg"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x88faa92fa318553a56668fdb8ca8ef7e986cf237",
+    "name": "description 0.6 vault",
+    "description": "",
+    "assetManager": "asset manager 0.6 vault",
+    "assetManagerIcon": "https://railnet-product-sandbox.vercel.app/logos/asset_managers/monarq.svg"
   }
 ]
