@@ -5,7 +5,10 @@
     "name": "some description",
     "description": "",
     "assetManager": "asset manager",
-    "assetManagerIcon": "https://railnet-product-sandbox.vercel.app/logos/asset_managers/monarq.svg"
+    "assetManagerIcon": "https://railnet-product-sandbox.vercel.app/logos/asset_managers/monarq.svg",
+    "assetManagerDescription": "",
+    "aum": "",
+    "tags": []
   },
   {
     "chainId": 1,
@@ -13,15 +16,21 @@
     "name": "Ana's vault",
     "description": "",
     "assetManager": "Ana",
-    "assetManagerIcon": "https://railnet-product-sandbox.vercel.app/logos/asset_managers/monarq.svg"
+    "assetManagerIcon": "https://railnet-product-sandbox.vercel.app/logos/asset_managers/monarq.svg",
+    "assetManagerDescription": "",
+    "aum": "",
+    "tags": []
   },
   {
     "chainId": 1,
     "address": "0x8b21fa55e3afc537de8abb74b2068746c676c828",
     "name": "Monarq WBTC Market Neutral Yield",
-    "description": "",
+    "description": "Monarq WBTC Market Neutral Yield vault captures BTC-denominated yield by allocating across lending protocols, fixed-rate DeFi positions, and tokenized real-world assets. All positions are dynamically managed with continuous risk monitoring and rebalancing.",
     "assetManager": "Monarq",
-    "assetManagerIcon": "https://railnet-product-sandbox.vercel.app/logos/asset_managers/monarq.svg"
+    "assetManagerIcon": "https://raw.githubusercontent.com/railnetorg/metadata/refs/heads/main/assets/monarq-logo.png",
+    "assetManagerDescription": "Monarq Asset Management is an institutional digital asset manager with deep expertise in quantitative trading and risk management. The team brings decades of experience from leading firms including UBS, Merrill Lynch, Tower Research, and BlockTower, managing over $700M in assets with a proven track record of consistent, risk-adjusted returns.",
+    "aum": "$700M+",
+    "tags": ["Nasdaq-Listed", "AMF-Regulated"]
   },
   {
     "chainId": 8453,
@@ -29,7 +38,10 @@
     "name": "Ilies's vault",
     "description": "",
     "assetManager": "Ilies",
-    "assetManagerIcon": "https://railnet-product-sandbox.vercel.app/logos/asset_managers/monarq.svg"
+    "assetManagerIcon": "https://railnet-product-sandbox.vercel.app/logos/asset_managers/monarq.svg",
+    "assetManagerDescription": "",
+    "aum": "",
+    "tags": []
   },
   {
     "chainId": 8453,
@@ -37,7 +49,10 @@
     "name": "some description",
     "description": "",
     "assetManager": "asset manager",
-    "assetManagerIcon": "https://railnet-product-sandbox.vercel.app/logos/asset_managers/monarq.svg"
+    "assetManagerIcon": "https://railnet-product-sandbox.vercel.app/logos/asset_managers/monarq.svg",
+    "assetManagerDescription": "",
+    "aum": "",
+    "tags": []
   },
   {
     "chainId": 1,
@@ -45,6 +60,9 @@
     "name": "description 0.6 vault",
     "description": "",
     "assetManager": "asset manager 0.6 vault",
-    "assetManagerIcon": "https://railnet-product-sandbox.vercel.app/logos/asset_managers/monarq.svg"
+    "assetManagerIcon": "https://railnet-product-sandbox.vercel.app/logos/asset_managers/monarq.svg",
+    "assetManagerDescription": "",
+    "aum": "",
+    "tags": []
   }
 ]
