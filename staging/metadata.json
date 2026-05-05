@@ -7,6 +7,7 @@
     "assetManager": "Ana",
     "assetManagerIcon": "https://railnet-product-sandbox.vercel.app/logos/asset_managers/monarq.svg",
     "assetManagerDescription": "",
+    "assetManagerWebsite": "https://railnet.org",
     "aum": "",
     "tags": []
   },
@@ -18,6 +19,7 @@
     "assetManager": "Monarq",
     "assetManagerIcon": "https://raw.githubusercontent.com/railnetorg/metadata/refs/heads/main/assets/monarq-logo.png",
     "assetManagerDescription": "Monarq Asset Management is an institutional digital asset manager with deep expertise in quantitative trading and risk management. The team brings decades of experience from leading firms including UBS, Merrill Lynch, Tower Research, and BlockTower, managing over $700M in assets with a proven track record of consistent, risk-adjusted returns.",
+    "assetManagerWebsite": "https://railnet.org",
     "aum": "$700M+",
     "tags": ["Nasdaq-Listed", "AMF-Regulated"]
   },
@@ -29,6 +31,7 @@
     "assetManager": "Ilies",
     "assetManagerIcon": "https://railnet-product-sandbox.vercel.app/logos/asset_managers/monarq.svg",
     "assetManagerDescription": "",
+    "assetManagerWebsite": "https://railnet.org",
     "aum": "",
     "tags": []
   },
@@ -40,6 +43,7 @@
     "assetManager": "asset manager 0.6 vault",
     "assetManagerIcon": "https://railnet-product-sandbox.vercel.app/logos/asset_managers/monarq.svg",
     "assetManagerDescription": "",
+    "assetManagerWebsite": "https://railnet.org",
     "aum": "",
     "tags": []
   }
