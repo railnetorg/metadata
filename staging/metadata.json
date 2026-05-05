@@ -1,17 +1,6 @@
 [
   {
     "chainId": 1,
-    "address": "0xeff2c1cc0e3bbb6bedc9622a309ed75eab730521",
-    "name": "some description",
-    "description": "",
-    "assetManager": "asset manager",
-    "assetManagerIcon": "https://railnet-product-sandbox.vercel.app/logos/asset_managers/monarq.svg",
-    "assetManagerDescription": "",
-    "aum": "",
-    "tags": []
-  },
-  {
-    "chainId": 1,
     "address": "0x4255f01607f785de275b8ec1255f3a938da17f63",
     "name": "Ana's vault",
     "description": "",
@@ -44,21 +33,10 @@
     "tags": []
   },
   {
-    "chainId": 8453,
-    "address": "0x806227d0a68dd7f3f818d2f0d779f5c76163155f",
-    "name": "some description",
-    "description": "",
-    "assetManager": "asset manager",
-    "assetManagerIcon": "https://railnet-product-sandbox.vercel.app/logos/asset_managers/monarq.svg",
-    "assetManagerDescription": "",
-    "aum": "",
-    "tags": []
-  },
-  {
     "chainId": 1,
     "address": "0x88faa92fa318553a56668fdb8ca8ef7e986cf237",
-    "name": "description 0.6 vault",
-    "description": "",
+    "name": "JB 0.6 vault",
+    "description": "description 0.6 vault",
     "assetManager": "asset manager 0.6 vault",
     "assetManagerIcon": "https://railnet-product-sandbox.vercel.app/logos/asset_managers/monarq.svg",
     "assetManagerDescription": "",
