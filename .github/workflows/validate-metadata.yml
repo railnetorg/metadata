@@ -1,0 +1,23 @@
+name: Validate Metadata JSON
+
+on:
+  push:
+    paths:
+      - 'production/metadata.json'
+      - 'staging/metadata.json'
+  pull_request:
+    paths:
+      - 'production/metadata.json'
+      - 'staging/metadata.json'
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Validate production/metadata.json
+        run: python3 -c "import json, sys; json.load(open('production/metadata.json')); print('OK')"
+
+      - name: Validate staging/metadata.json
+        run: python3 -c "import json, sys; json.load(open('staging/metadata.json')); print('OK')"
