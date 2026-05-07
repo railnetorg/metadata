@@ -63,7 +63,7 @@
     "chainName": "ethereum",
     "chainIcon": "https://public.kiln.fi/icons/chains/ethereum.svg",
     "assetIcon": "https://assets.coingecko.com/coins/images/6319/standard/USDC.png?1769615602",
-    "assetSymbol": "USDC",
+    "assetSymbol": "USDC"
   },
   {
     "chainId": 1,
@@ -81,6 +81,6 @@
     "chainName": "ethereum",
     "chainIcon": "https://public.kiln.fi/icons/chains/ethereum.svg",
     "assetIcon": "https://assets.coingecko.com/coins/images/6319/standard/USDC.png?1769615602",
-    "assetSymbol": "USDC",
+    "assetSymbol": "USDC"
   }
 ]
