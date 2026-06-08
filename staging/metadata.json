@@ -36,6 +36,18 @@
     "tags": []
   },
   {
+    "chainId": 8453,
+    "address": "0x6ce128b123307544d305685e9fdff20d69e640a9",
+    "name": "Arno's vault",
+    "description": "",
+    "assetManager": "Arno",
+    "assetManagerIcon": "https://raw.githubusercontent.com/railnetorg/metadata/refs/heads/main/assets/monarq-logo-2.png",
+    "assetManagerDescription": "",
+    "assetManagerWebsite": "https://railnet.org",
+    "aum": "",
+    "tags": []
+  },
+  {
     "chainId": 1,
     "address": "0x88faa92fa318553a56668fdb8ca8ef7e986cf237",
     "name": "JB 0.6 vault",
