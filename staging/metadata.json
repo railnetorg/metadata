@@ -48,6 +48,18 @@
     "tags": []
   },
   {
+    "chainId": 8453,
+    "address": "0xe6570b948a607b479897f511929a7c1add850cfa",
+    "name": "Ilies's 0.6 vault",
+    "description": "ilies usdc 0.6 vault",
+    "assetManager": "Ilies",
+    "assetManagerIcon": "https://raw.githubusercontent.com/railnetorg/metadata/refs/heads/main/assets/monarq-logo.png",
+    "assetManagerDescription": "",
+    "assetManagerWebsite": "https://railnet.org",
+    "aum": "",
+    "tags": []
+  },
+  {
     "chainId": 1,
     "address": "0x88faa92fa318553a56668fdb8ca8ef7e986cf237",
     "name": "JB 0.6 vault",
