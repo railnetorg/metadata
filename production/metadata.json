@@ -9,6 +9,20 @@
     "assetManagerDescription": "Monarq Asset Management is an institutional digital asset manager with deep expertise in quantitative trading and risk management. The team brings decades of experience from leading firms including UBS, Merrill Lynch, Tower Research, and BlockTower, managing over $700M in assets with a proven track record of consistent, risk-adjusted returns.",
     "assetManagerWebsite": "https://www.monarq-am.com/",
     "aum": "AUM: $700M+",
-    "tags": ["NFA-Registered", "FalconX-Backed"]
+    "tags": [
+      "NFA-Registered",
+      "FalconX-Backed"
+    ]
+  },
+  {
+    "chainId": 1,
+    "address": "0x7baeb9f29a284567b1c85b2469f456911bca1f81",
+    "name": "Railnet QA - USDC strategy",
+    "description": "QA vault used for integration testing on Ethereum mainnet. USDC strategy",
+    "assetManager": "QA CoinShares",
+    "tags": [
+      "QA",
+      "Testing"
+    ]
   }
 ]
