@@ -10,8 +10,10 @@
     "assetManagerWebsite": "https://www.monarq-am.com/",
     "assetManagerInterviewTitle": "Read interview - Shiliang Tang",
     "assetManagerInterviewDescription": "Discover the first episode of Railnet Talks featuring Shiliang Tang Managing Partner of Monarq",
-    "assetManagerDDTitle": "Full DD Package - Risk Framework",
-    "assetManagerDDDescription": "Audit reports, legal structure, operational controls.",
+    "assetManagerInterviewUrl": "https://railnet.org/blog/monarq-s-shiliang-tang-on-institutional-btc-yield-multi-strategy-vaults-and-why-railnet",
+    "assetManagerDueDiligenceTitle": "Full DD Package - Risk Framework",
+    "assetManagerDueDiligenceDescription": "Audit reports, legal structure, operational controls.",
+    "assetManagerDueDiligenceUrl": "https://railnet.org/asset-managers/monarq",
     "assetManagerLearnMoreUrl": "https://railnet.org/asset-managers/monarq",
     "aum": "AUM: $700M+",
     "tags": [
