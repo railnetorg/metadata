@@ -85,5 +85,11 @@
     "description": "QA vault used for integration testing on Ethereum mainnet. USDC strategy",
     "assetManager": "QA CoinShares",
     "tags": ["QA", "Testing"]
+  },
+  {
+    "chainId": 8453,
+    "address": "0x1d278ab2745dc12bf4f8baa5fc5d9c8a46861b14",
+    "name": "Aave USDC Conduit Name",
+    "description": "Aave USDC Conduit Description"
   }
 ]
