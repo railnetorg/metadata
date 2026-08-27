@@ -90,6 +90,43 @@
     "chainId": 8453,
     "address": "0x1d278ab2745dc12bf4f8baa5fc5d9c8a46861b14",
     "name": "Aave USDC Conduit Name",
-    "description": "Aave USDC Conduit Description"
+    "description": "Aave USDC Conduit Description",
+    "settlement": "sync"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x6315cb11f92ffa967cbee4a0abd3c1328af2a9da",
+    "name": "Railnet QA - Quasar USDC conduit",
+    "description": "QA conduit on Base, backed by Multi Vehicle #3 (QUASAR-690).",
+    "settlement": "sync",
+    "assetManager": "Railnet QA",
+    "tags": ["QA", "Testing"]
+  },
+  {
+    "chainId": 8453,
+    "address": "0x3d9e60ccee8477577c95d2faf4f127fea8745da9",
+    "name": "Railnet QA - Morpho USDC conduit",
+    "description": "QA conduit on Base, backed by Morpho Blue Vehicle #1 (cbBTC-USDC).",
+    "settlement": "sync",
+    "assetManager": "Railnet QA",
+    "tags": ["QA", "Testing"]
+  },
+  {
+    "chainId": 8453,
+    "address": "0xad737b1c4c1bc931e8aa08db287c2564b7cb948d",
+    "name": "Railnet QA - Async partial conduit",
+    "description": "QA conduit on Base exercising partial async settlement, backed by LightSTEAMMock Vehicle #3.",
+    "settlement": "async",
+    "assetManager": "Railnet QA",
+    "tags": ["QA", "Testing"]
+  },
+  {
+    "chainId": 8453,
+    "address": "0x10d0e872ac36ab67beca3321b580345fed0b67bd",
+    "name": "Railnet QA - Async conduit",
+    "description": "QA conduit on Base exercising async settlement, backed by Multi Vehicle #2 (ASYNCTEST).",
+    "settlement": "async",
+    "assetManager": "Railnet QA",
+    "tags": ["QA", "Testing"]
   }
 ]
