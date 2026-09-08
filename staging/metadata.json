@@ -128,5 +128,23 @@
     "settlement": "async",
     "assetManager": "Railnet QA",
     "tags": ["QA", "Testing"]
+  },
+  {
+    "chainId": 8453,
+    "address": "0xe4ee04b84a82207bcceb113575534ce3c9f13cf8",
+    "name": "Railnet QA - Aave V3 USDC conduit",
+    "description": "QA conduit on Base, backed by AaveV3 Vehicle #3 (AAVEV3-3-USDC).",
+    "settlement": "sync",
+    "assetManager": "Railnet QA",
+    "tags": ["QA", "Testing"]
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb5b2418758a6d68319563442fd2862fa6cee7420",
+    "name": "Railnet QA - TESTMV USDC conduit",
+    "description": "QA conduit on Base, backed by Multi Vehicle #2 (MV-2-TESTMV-USDC).",
+    "settlement": "sync",
+    "assetManager": "Railnet QA",
+    "tags": ["QA", "Testing"]
   }
 ]
