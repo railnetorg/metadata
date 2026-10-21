@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "chainId": 1,
+    "address": "0xc0a76b15704f2a3a50105b11b88763b205b9298a",
+    "name": "USDC Permissionless IG Diversified Income",
+    "description": "Blends the two permissionless sources of return — over-collateralised DeFi lending and permissionless private credit (Syrup) — alongside tokenised RWA income via Ondo Global Markets. It targets an investment-grade-oriented, diversified income profile while keeping to a deliberately small and stable set of markets. Allocation is non-discretionary and rules-based, with programmed rebalancing and CoinShares managing the risk framework only. No leverage, no recursive lending.",
+    "assetManager": "CoinShares",
+    "assetManagerIcon": "https://cdn.railnet.org/asset-managers/coinshares/logo.svg",
+    "assetManagerDescription": "CoinShares is a pioneering digital asset investment firm founded in 2014. The company launched the first regulated Bitcoin fund and the first open-ended crypto ETP in Europe. As the market leader with ~45% share of European crypto ETP assets, CoinShares combines deep institutional expertise with a decade-long track record in regulated digital asset management.",
+    "assetManagerWebsite": "https://coinshares.com/es-en",
+    "assetManagerLearnMoreUrl": "https://railnet.org/asset-managers/coinshares",
+    "aum": "AUM: $7B+",
+    "tags": [
+      "Nasdaq-Listed",
+      "AMF-Regulated"
+    ]
+  }
+]
