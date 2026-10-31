@@ -16,5 +16,10 @@
     "settlement": "sync",
     "assetManager": "Railnet QA",
     "tags": ["QA", "Testing"]
+  },
+  {
+    "chainId": 8453,
+    "address": "0xc2123f0cfd31956a626bed55a8415d0e48d49ee5",
+    "name": "QA Open"
   }
 ]
