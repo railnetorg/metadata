@@ -14,5 +14,71 @@
       "Nasdaq-Listed",
       "AMF-Regulated"
     ]
+  },
+  {
+    "chainId": 1,
+    "address": "0xa373d9affc90f8a4c9e1fab61ab85b3cf2318655",
+    "name": "Armitage Leveraged ETH Yield",
+    "description": "WETH strategy run by Armitage, Wintermute's vault curation arm. It allocates to three Armitage vaults: a wstETH/ETH loop (about 40%), WETH lent to Wintermute on Wildcat (about 20%) and a Morpho wstETH-collateral USDC borrow (25–35%), and keeps 5–15% idle for redemptions."
+  },
+  {
+    "chainId": 1,
+    "address": "0x08c366c9b10a34d707c56962ad6457513bdb416f",
+    "name": "CoinShares IG Diversified Income",
+    "description": "Blends the two permissionless sources of return — over-collateralised DeFi lending and permissionless private credit (Syrup) — alongside tokenised RWA income via Ondo Global Markets. It targets an investment-grade-oriented, diversified income profile while keeping to a deliberately small and stable set of markets. Allocation is non-discretionary and rules-based, with programmed rebalancing and CoinShares managing the risk framework only. No leverage, no recursive lending."
+  },
+  {
+    "chainId": 1,
+    "address": "0x274f44350f8d301184d1b753914e937768599334",
+    "name": "CoinShares IG Diversified Income (Permissioned)",
+    "description": "Allowlisted twin of CoinShares IG Diversified Income. Deployed but unused: CoinShares' permissioned track moved to Institutional Diversified Yield."
+  },
+  {
+    "chainId": 1,
+    "address": "0x26c9f9537d8c212fde880b9a684b253abb2fbc81",
+    "name": "CoinShares DeFi Income",
+    "description": "CoinShares' DeFi-only USDC strategy, open to any depositor: lending on Aave and on Morpho Blue markets against BTC and ETH collateral, plus a CoinShares-run vault. No real-world assets."
+  },
+  {
+    "chainId": 1,
+    "address": "0x4dab9b6008593304de9d4bad810f9e255b431d25",
+    "name": "CoinShares Institutional Diversified Yield",
+    "description": "CoinShares' allowlisted USDC strategy for institutional capital. Its yield sources sit in one CoinShares vault: tokenised US Treasury funds (Ondo, OUSG), Spiko money-market funds, Ethena, Compound and Maple secured lending."
+  },
+  {
+    "chainId": 1,
+    "address": "0xf02db51f00b5630353204c92269a59017545fad5",
+    "name": "Armitage wstETH/ETH Loop",
+    "description": "Armitage vault running a leveraged staking loop: it supplies wstETH on Aave (Morpho as an alternative), borrows WETH against it and mints more wstETH, earning Lido's staking yield above the WETH borrow rate."
+  },
+  {
+    "chainId": 1,
+    "address": "0x73d5d0e76205284cb6eae7e75b71fdf145a139d6",
+    "name": "Armitage Wildcat Lending to Wintermute",
+    "description": "Armitage vault lending WETH on Wildcat (market token wmtWETH) with Wintermute as the borrower: a credit line to one counterparty, not a collateralised market."
+  },
+  {
+    "chainId": 1,
+    "address": "0x236de883ffdab4b008ffa117d583da2616f5702a",
+    "name": "Armitage Morpho wstETH Borrow",
+    "description": "Armitage vault posting wstETH as collateral on Morpho Blue, borrowing USDC against it and deploying the USDC in stablecoin lending."
+  },
+  {
+    "chainId": 1,
+    "address": "0x604f2e9fba764bd82a059be437fd57ee0cc6534a",
+    "name": "CoinShares IG Real-World Assets",
+    "description": "CoinShares vault holding the real-world-asset leg of IG Diversified Income: Ondo tokenised US Treasury funds (SGOVon, USFRon), bought through CoW Swap with every fill checked against a Chainlink price feed. Redeems on CoinShares' settlement cycle."
+  },
+  {
+    "chainId": 1,
+    "address": "0x6f4e00954d39c414a7a40f00347aaa91bd4ee3dc",
+    "name": "CoinShares DeFi Income Vault",
+    "description": "CoinShares-run vault behind DeFi Income, for the positions that have no Railnet Vehicle of their own. Redeems on CoinShares' settlement cycle."
+  },
+  {
+    "chainId": 1,
+    "address": "0xf82d1c7dc3e34786750750887b45c96002f4493a",
+    "name": "CoinShares Institutional Diversified Yield Vault",
+    "description": "CoinShares vault behind Institutional Diversified Yield, holding its yield sources: Ondo tokenised Treasury funds and OUSG, Spiko money-market funds, Ethena, Compound and Maple's High Yield Secured Lending pool. Redeems on CoinShares' settlement cycle."
   }
 ]
